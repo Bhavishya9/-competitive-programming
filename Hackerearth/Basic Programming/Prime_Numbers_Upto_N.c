@@ -1,3 +1,4 @@
+/* Print prime numbers upto given number N*/
 #include<stdio.h>
 
 printPrimes(int N);
